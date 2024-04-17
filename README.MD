@@ -24,7 +24,7 @@ L'API permet aux clients d'effectuer les opérations suivantes :
 ## Installation
 #### Clone the repository
 
-```git clone https://github.com/DevClube/Microservice_app.git```
+```git clone https://github.com/soukainatronnebati/Microservice_BankAccount.git```
 
 #### Build the project
 
@@ -39,7 +39,7 @@ The application will start on port 8081.
 ## Usage
 ### Création d'une Entité :
 
-<img src="Capture/1.png">
+<img src="Capture/1.PNG">
 
 ### Création de Repository:
 
