@@ -39,53 +39,53 @@ The application will start on port 8081.
 ## Usage
 ### Création d'une Entité :
 
-<img src="./Capture/1.png">
+<img src="Capture/1.png">
 
 ### Création de Repository:
 
-<img src="./Capture/2.png">
+<img src="Capture/2.png">
 
 ### Création de Service:
 
-<img src="./Capture/3.png">
-<img src="./Capture/4.png">
+<img src="Capture/3.png">
+<img src="Capture/4.png">
 ### Test avec Postman:
 #### Afficher tous les comptes:
 
-<img src="./Capture/5.png">
-<img src="./Capture/6.png">
+<img src="Capture/5.png">
+<img src="Capture/6.png">
 
 #### Afficher un comptes:
 
-<img src="./Capture/8.png">
-<img src="./Capture/9.png">
+<img src="Capture/8.png">
+<img src="Capture/9.png">
 
 ### Swagger Documentation:
 
-<img src="./Capture/11.png">
+<img src="Capture/11.png">
 
 ### Création des dto et Mappers:
 #### RequestDTO:
-<img src="./Capture/12.png">
+<img src="Capture/12.png">
 
 #### ResponseDTO:
-<img src="./Capture/13.png">
+<img src="Capture/13.png">
 
 #### Mapper:
-<img src="./Capture/15.png">
+<img src="Capture/15.png">
 
 ### Création de Service:
 #### Interface Service:
-<img src="./Capture/16.png">
+<img src="Capture/16.png">
 
 #### Service Implementation:
-<img src="./Capture/17.png">
+<img src="Capture/17.png">
 
 ### GraphQL:
 #### schema:
-<img src="./Capture/18.png">
+<img src="Capture/18.png">
 
 #### Test des schemas:
-<img src="./Capture/19.png">
+<img src="Capture/19.png">
 
-<img src="./Capture/20.png">
+<img src="Capture/20.png">
